@@ -1,11 +1,12 @@
-# Lemon app skeleton
+# kablog backend
 
-This repository contains advanced skeleton based on Lemon and Laravel mix.
+## Lemon
+
+A PHP framework that is just bitter sweet 🍋. I don't know any PHP, thus this will be a test of my own hatred towards myself.
 
 ## Instalation
 
-```
-$ git clone https://github.com/Lemon-Framework/app
-
-$ make
+```sh
+git clone https://github.com/Lemon-Framework/app  
+make
 ```

@@ -6,10 +6,18 @@ A PHP framework that is just bitter sweet 🍋. I don't know any PHP, thus this 
 
 ## Instalation
 
+### Manual
+
+For package manager [`composer`](https://getcomposer.org/download/) is used. After having it installed just:
+
 ```sh
-git clone https://github.com/Lemon-Framework/app  
+git clone https://codeberg.org/kadva7/kablog-backend.git  
 make
 ```
+
+### Podman/Docker
+
+TODO
 
 ## License
 

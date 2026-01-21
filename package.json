@@ -1,9 +1,9 @@
 {
-  "name": "lemon-app",
+  "name": "kablog-backend",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "TENMAJKL <tenmajkl@proton.me>",
-  "license": "MIT",
+  "author": "Kadva7 <kadva7@protonmail.com>",
+  "license": "GPL-3.0-only",
   "devDependencies": {
     "laravel-mix": "^6.0.49",
     "postcss": "^8.4.16"
